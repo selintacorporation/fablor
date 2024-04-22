@@ -1,0 +1,16 @@
+from 149 into index.html 
+ 
+ <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <h2 align="center"><img src="assets/img/flip_big.png" width="250" height="150"></h2>
+            <p align="justify">&nbsp;</p>
+</div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p align="justify"><strong>Selinta Corporation</strong> Company Engages in the Manufacturing of All types of Hardware &amp; Furniture Fittings under the Brand Name of <strong>“Fablor”</strong>. Company Commited to provide widest range of luxury hardware product from chick door locks to sleek hines.</p>
+            <p>The Active &amp; Knowledgeable Entrepreneur is now the Promoter of the Company &amp; Display Sharpness, Enthusiasm and Professionalism. His in detail knowledge, Farsigthed business policies has deliberately located <strong>SELINTA CORPORATION</strong> one of the for most manufacture.
+              </section>
+              <!-- End Services Section -->
